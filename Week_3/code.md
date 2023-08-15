@@ -1,13 +1,13 @@
 ```let studyHoursToday = 1; 
 if (studyHoursToday < 4)
 {
-    console.log("You need to study more!")
+    console.log("You need to study more!"); 
 }
 
 else 
 {
     console.log("Well done! Keep up the great work!"); 
-}`
+}
 ```
 
 ```
